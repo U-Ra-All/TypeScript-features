@@ -1,0 +1,23 @@
+{
+  "name": "features",
+  "version": "1.0.0",
+  "description": "",
+  "main": "decorate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/U-Ra-All/TypeScript-features.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/U-Ra-All/TypeScript-features/issues"
+  },
+  "homepage": "https://github.com/U-Ra-All/TypeScript-features#readme",
+  "dependencies": {
+    "reflect-metadata": "^0.1.13"
+  }
+}
